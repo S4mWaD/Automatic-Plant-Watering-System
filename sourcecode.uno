@@ -5,7 +5,7 @@
 // API Integration of the Blynk IOT platform.
 #define BLYNK_TEMPLATE_ID "TMPL6nLa-DCR-"
 #define BLYNK_TEMPLATE_NAME "IOT Project"
-#define BLYNK_AUTH_TOKEN "4QQBZ5IdyYHd7liE6RLL9mrG_4kSJ_BA"
+#define BLYNK_AUTH_TOKEN "[User Authentication Token]"
 #define sensorPin 34 //Connecting soil moisture sensor at GPIO 34 of the ESP32
 #define relayPin 4 //The relay is connected to GPIO 4 of ESP32
 BlynkTimer timer;
